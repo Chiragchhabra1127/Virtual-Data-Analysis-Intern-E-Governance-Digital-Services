@@ -1,7 +1,7 @@
-# NSDC Yuva Intern — E-Governance & Digital Services
+# Virtual-Data-Analysis-Intern-E-Governance-Digital-Services
 ## Practical Code Files (Week 1–6)
 
-**Author:** Chirag Chhabra | MGSU, Bikaner, Rajasthan
+**Author:** Chirag Chhabra
 
 ## Folder Structure
 ```
